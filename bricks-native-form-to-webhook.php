@@ -1,3 +1,7 @@
+/**
+ * Function to Send Bricks Form Data one or more form id to one or more Webhook with array
+ */
+
 function bung_bricks_form_to_webhook( $form ){
 
     $data = $form->get_fields();
