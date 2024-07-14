@@ -3,7 +3,7 @@
  * Plugin Name: Costum Action for Bricksform to Webhook Plugin
  * Description: Mengirim data formulir Bricks ke webhook berdasarkan ID formulir.
  * Version: 1.3
- * Author: Nama Anda
+ * Author: bungrahman
  */
 
 // Fungsi untuk memeriksa apakah tema Bricks atau child theme dari Bricks aktif
